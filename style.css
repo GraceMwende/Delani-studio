@@ -24,6 +24,10 @@
   line-height: 200%;
   padding-bottom: 5%;
 }
+.what-we-do h1{
+  text-align: center;
+  padding: 2%;
+}
 .contact{
   background-image: url(images/backgrounds/c_image.jpg);
 }
