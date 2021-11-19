@@ -28,6 +28,13 @@
   text-align: center;
   padding: 2%;
 }
+.portfolio{
+  width: 80%;
+  margin: auto;
+}
+.portfolio h1{
+  text-align: center;
+}
 .contact{
   background-image: url(images/backgrounds/c_image.jpg);
 }
