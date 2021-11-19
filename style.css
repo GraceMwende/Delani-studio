@@ -37,4 +37,28 @@
 }
 .contact{
   background-image: url(images/backgrounds/c_image.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 10%;
+  color: white;
+}
+.contact h1{
+  padding: 2%;
+}
+.contact input{
+  width: 30%;
+}
+.contact input[type = text]{
+  margin-right: 2%;
+}
+form textarea{
+  margin-top: 2%;
+}
+input[type = text], input[type=email], textarea{
+  background: transparent;
+  border: 1px solid white;
+}
+::placeholder{
+  color: white;
 }
