@@ -7,7 +7,7 @@
   text-align: center;
   color: #fff ;
 }
-.hoheading{
+.hoheading, .services{
   padding-top: 10%;
 }
 #mouse{
@@ -19,6 +19,10 @@
 }
 .services{
   background-image: url(images/backgrounds/s_image.jpg);
+  text-align: center;
+  color: #fff ;
+  line-height: 200%;
+  padding-bottom: 5%;
 }
 .contact{
   background-image: url(images/backgrounds/c_image.jpg);
