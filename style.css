@@ -87,5 +87,12 @@ input[type = text], input[type=email], textarea{
 }
 footer{
   text-align: center;
-  margin-top: 4%;
+  margin-top: 3%;
+}
+.icons img{
+  margin-right: 1%;
+}
+.copy-right{
+  font-family: 'Nunito', sans-serif;
+  font-weight: 500;
 }
