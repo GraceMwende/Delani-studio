@@ -22,8 +22,17 @@
   padding: 5% 0;
 }
 .about{
+  margin-top: 3%;
   text-align: center;
   line-height: 200%;
+}
+.about h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+.about p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
 }
 .services{
   background-image: url(images/backgrounds/s_image.jpg);
