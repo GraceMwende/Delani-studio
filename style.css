@@ -81,6 +81,7 @@ form textarea{
 input[type = text], input[type=email], textarea{
   background: transparent;
   border: 1px solid white;
+  outline: none;
 }
 ::placeholder{
   color: white;
