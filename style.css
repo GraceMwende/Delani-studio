@@ -6,6 +6,14 @@
   background-size: cover;
   text-align: center;
   color: #fff ;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+.hoheading h2{
+  font-size: 70px;
+}
+.hoheading p{
+  font-size: 20px;
 }
 .hoheading, .services{
   padding-top: 10%;
