@@ -32,7 +32,7 @@ h1{
 }
 .about p{
   font-family: 'Poppins', sans-serif;
-  font-size: 16px;
+  font-size: 14px;
 }
 .services{
   background-image: url(images/backgrounds/s_image.jpg);
@@ -112,4 +112,14 @@ footer{
 .copy-right{
   font-family: 'Nunito', sans-serif;
   font-weight: 500;
+}
+.toggleDesign, .toggleDev, .toggleProduct{
+  display: none;
+}
+/* jquery styles */
+h3{
+  display: inline-block;
+  border: 2px solid black;
+  background-color: white;
+  color: red;
 }
